@@ -1,6 +1,6 @@
 # MQTT_on_ESP8266_for_Adafruit
 This project sends temperature and humidity data from DHT-11, using ESP8266 and send it to Adafruit.io via MQTT for graphical view.
-
+Just follow the steps written below:
 
 
 #1. Create Adafruit account and create feeds for the data to be sent there.
